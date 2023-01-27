@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Fam GPS</string>
+    <!--Menu-->
+    <string name="txt_menu_miperfil">Mi Perfil</string>
+    <string name="txt_menu_contactos">Contacts</string>
+    <string name="txt_menu_faq">Preguntas Frecuentes</string>
+    <string name="txt_menu_cerrarsesion">Cerrar Sesión</string>
+    <!--Inicio sesion-->
+    <string name="btn_iniciosesion">Inicia sesión con Google</string>
+
+    <string name="txt_appbar">MyFamGPS</string>
+    <string name="txt_invitados">Mis invitados</string>
+    <string name="txt_editar">Edit</string>
+    <string name="txt_eliminar">Deleted</string>
+    <string name="txt_guardar">Guardar</string>
+
+    <string name="txt_nombreplan">Plan Light</string>
+    <string name="txt_descripcionplan">Ve la ubicaci\u00C3\u00B3n de tus miembros\nControl parental para los mas peque\u00C3\u00B1os de la familia\nComparte tu plan con hasta 4 personas m\u00C3\u00A1s</string>
+
+    <!--Fragmento perfil-->
+    <string name="txt_compartirubicacion">est\u00C3\u00A1s compartiendo tu ubicaci\u00C3\u00B3n</string>
+    <string name="txt_nodisponible">Disponible en versi\u00C3\u00B3n premium</string>
+    <string name="txt_actualizarplan">Actualizar plan</string>
+    <string name="txt_contratarplan">Contratar plan</string>
+    <string name="txt_contratarplanpersonal">Contratar plan personal</string>
+    <string name="txt_invitar">Invitar</string>
+    <string name="txt_estado_sinplan">Sin plan suscrito</string>
+    <string name="txt_estado_plansuscrito">Plan Premium Ligth - administrador</string>
+    <string name="txt_estado_invitado">Plan Premium Ligth - invitado</string>
+    <string name="txt_estado_parental">Plan Premium Ligth - control parental</string>
+
+    <!--Enviar Invitacion-->
+
+    <string name="txt_enviarinvitacion">Invitar a alguien</string>
+    <string name="txt_controlparental">Control parental</string>
+    <string name="btn_enviarinvitacion">Enviar invitaci\u00C3\u00B3n</string>
+
+    <!--Fragmento Contactos-->
+    <string name="txt_solicitudescontactos">Solicitudes de contacto</string>
+    <string name="txt_agregar_contacto">Agregar Contacto</string>
+    <string name="txt_correo_contacto">Escriba correo de contacto</string>
+    <string name="txt_invitar_alguien">Invitar a alguien</string>
+    <string name="txt_correo_invitacion">Escribe el correo de tú intivado</string>
+
+
+</resources>

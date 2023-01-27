@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/miperfil"
+        android:title="@string/txt_menu_miperfil"/>
+    <item android:id="@+id/contactos"
+        android:title="@string/txt_menu_contactos"/>
+    <item android:id="@+id/faq"
+        android:title="@string/txt_menu_faq"/>
+    <item android:id="@+id/cerrarsesion"
+        android:title="@string/txt_menu_cerrarsesion"/>
+</menu>
